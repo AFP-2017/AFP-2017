@@ -55,12 +55,13 @@ entire week. All lunches, coffee, and dinners will be covered.
 If you are a student or affiliated with a university, we can offer a
 €1000 euro discount on your registration fee.
 
-#### Sponsorship
-
-The Summer School is generously sponsored by Standard Chartered Bank.
-
 #### Questions?
 
 Feel free to contact Wouter Swierstra (w.s.swierstra {at} uu.nl) if
 you have any questions about participating.
 
+#### Sponsorship
+
+The Summer School is generously sponsored by Standard Chartered Bank.
+
+![Standard Chartered](img/standard-chartered.png)
