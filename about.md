@@ -35,7 +35,10 @@ algebraic data types, such as lists and trees. There is a great deal
 of online material freely available that covers this material. If
 you've already started learning Haskell and are looking to take your
 functional programming skills to the next level, this is the course
-for you.
+for you. Or if you're used to working in functional languages such as
+Scala, PureScript, Elm, OCaml, or Racket, and looking to learn more
+about foundations and Haskell -- you may want to consider joining our
+summer school.
 
 #### Venue
 
