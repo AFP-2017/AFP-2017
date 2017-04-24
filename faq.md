@@ -1,0 +1,37 @@
+---
+title: FAQ
+layout: margins
+---
+
+## Frequently asked questions
+
+#### Do I need to be enrolled at a university to attend?
+
+No! The course is open to all participants. We can offer students or
+staff members of university's a discount. If you need to answer any
+questions about your degree during registration, please do so to the
+best of your ability, but you are very welcome to attend the summer
+school, regardless of your current status.
+
+#### Do I need to upload a 'proof of university affiliation'?
+
+No -- only if you want to receive the discount described
+above. 
+
+#### What is the course code?
+
+During registration, you may need to enter the course code: *H9*.
+
+#### What level of Haskell knowledge do you expect?
+
+You should be comfortable reading simple Haskell function definitions
+of functions -- such as map and filter -- and understand the basics of
+pattern matching and algebraic data types. There are many good
+resources available introducing these basics -- feel free to contact
+the lecturers if you're unsure about your prerequisites.
+
+#### What can you tell me about the accommodation?
+
+All accommodation is handled by the general Summer School
+administration. You can read more about accommodation and practical
+matters on [their website](https://www.utrechtsummerschool.nl/).
