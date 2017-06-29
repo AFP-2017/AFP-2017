@@ -35,3 +35,11 @@ the lecturers if you're unsure about your prerequisites.
 All accommodation is handled by the general Summer School
 administration. You can read more about accommodation and practical
 matters on [their website](https://www.utrechtsummerschool.nl/).
+
+#### Are there scholarships available if I cannot afford attendance?
+
+If you're struggling to finance your trip to Utrecht, please let us
+know by emailing Wouter Swierstra (w.s.swierstra {at} uu.nl). We have
+a limited number of scholarships or discounts available for students
+that would not be able to attend otherwise, especially for women and
+under represented minorities.
